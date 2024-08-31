@@ -1,6 +1,7 @@
-https://mydy.xlm.plus/api/v1/client/subscribe?token=0c7874fe355c92c1ca0b80499ecf2715
-https://mydy.xlm.plus/api/v1/client/subscribe?token=2394b7914923c56721f7d27c3689f74f
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
-https://mydy.xlm.plus/api/v1/client/subscribe?token=a76761e54db4b5f1439640e34dd348ab
+https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
+https://subs.zeabur.app/clash
+https://bujidao.cc/sub?key=Upng9QgD43XTEXQG6rkd6rCqp0bMX0fv
 https://mc.jiedianxielou.workers.dev
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://mc.jiedianxielou.workers.dev/
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
