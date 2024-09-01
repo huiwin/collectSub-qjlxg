@@ -1,5 +1,6 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
 https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
 https://mc.jiedianxielou.workers.dev/
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://mc.jiedianxielou.workers.dev
+https://music.easygourl.xyz/link/T0SulVqfmruC1mRGQy4YuNSRHr6e57Qo?config=all
+https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
