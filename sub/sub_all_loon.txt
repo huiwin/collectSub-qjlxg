@@ -1,6 +1,5 @@
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=a5284d11a2a28146989d2d22f6910cb2
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/
-https://mydy.xlm.plus/api/v1/client/subscribe?token=a76761e54db4b5f1439640e34dd348ab
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://bujidao.cc/sub?key=Upng9QgD43XTEXQG6rkd6rCqp0bMX0fv
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mydy.xlm.plus/api/v1/client/subscribe?token=2394b7914923c56721f7d27c3689f74f
+https://mydy.xlm.plus/api/v1/client/subscribe?token=0c7874fe355c92c1ca0b80499ecf2715
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
