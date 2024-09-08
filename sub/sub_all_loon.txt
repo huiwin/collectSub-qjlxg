@@ -1,8 +1,6 @@
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=b3a4ebe842dd5365ebc7820c647620dd
-https://mc.jiedianxielou.workers.dev/
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://1.bethebest.eu.org/api/v1/client/subscribe?token=3715a07dc448ad9f275aa73e54b762b7
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=a5284d11a2a28146989d2d22f6910cb2
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;amp;flag=meta
