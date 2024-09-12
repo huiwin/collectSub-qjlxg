@@ -1,22 +1,23 @@
 -- play_list --
 
 
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=c71e11f84428403adb4f537b43f407ae
 https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
 https://pp.fra-shop.ir:8443/sub/free/6bcfc67d4ed93d2593464df07544468c
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://subs.zeabur.app/clash
-http://91.107.179.40:443/sub/cHJvc3NoLDE3MjUyODA2OTE-eIp7pn4OT
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=ce58f4395108ac762a8c19e2517aecaa
 https://csgo1.fask511.cfd/api/v1/client/subscribe?token=1a14738c9fb45740a22099c000bf2275
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://bujidao.cc/sub?key=Upng9QgD43XTEXQG6rkd6rCqp0bMX0fv
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=ce58f4395108ac762a8c19e2517aecaa
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
@@ -30,7 +31,6 @@ https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=fda8d35f89c5e5afbb16dabfe4d56aa1
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=c71e11f84428403adb4f537b43f407ae
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=a5284d11a2a28146989d2d22f6910cb2
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
@@ -43,14 +43,14 @@ https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://asa.lol/api/v1/client/subscribe?token=1a39beba774ca7f7cc79cc18c0e1683f#subscribe?t
 https://asa.lol/api/v1/client/subscribe?token=1a39beba774ca7f7cc79cc18c0e1683f#subscribe?to
 https://www.ginfem.com/link/J9AHBgJkY0YkRQwM?clash=1
-https://v2.bgp.dedyn.io/ssb
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://free.colacloud.free.hr/api/v1/client/subscribe?token=8e99b21ebc6d7fd00140cbe66b94123e
+https://ng.69hub.cc/api/v1/client/subscribe?token=4b480144caa0768ab8bd1b5f7b77c4a9
 https://ng.69hub.cc/api/v1/client/subscribe?token=ac20335940cb3558b53044f26a73080c
 https://red.colacloud.free.hr/api/v1/client/subscribe?token=2aad2d0a87b9fa04a071d994d6f2a053
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
 https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
 https://free.colacloud.free.hr/api/v1/client/subscribe?token=a682a7c86bbfc5e985c0e63bba732d99
 https://free.colacloud.free.hr/api/v1/client/subscribe?token=6638b42afca531e78d4feeb6602c6721
 https://ddd.trc20.top/api/v1/client/subscribe?token=3db3b1f22d03ded5e10d10d3e81e8c71
@@ -899,6 +899,7 @@ https://neolink.nkkc.one/api/v1/client/subscribe?token=0ec8fa1dce2d03072a8ec2a36
 https://neolink.nkkc.one/api/v1/client/subscribe?token=8c43962a5e059458605b2572987956e1
 https://neolink.nkkc.one/api/v1/client/subscribe?token=e6b7c04a3d78c287112d728596fdd360
 https://net.17181922.xyz/api/v1/client/subscribe?token=8460d95cbbb5b019dd9fa5eaaca46a40
+https://ng.69hub.cc/api/v1/client/subscribe?token=4b480144caa0768ab8bd1b5f7b77c4a9
 https://ng.69hub.cc/api/v1/client/subscribe?token=ac20335940cb3558b53044f26a73080c
 https://niaodi.top/niao?token=d9aa0fcf6f2399f09f0b0e54349a2297
 https://niaodi.top/niao?token=f458b68029d3e14d505baab010e9c913
