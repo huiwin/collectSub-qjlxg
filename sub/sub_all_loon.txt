@@ -1,6 +1,5 @@
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
 https://mc.jiedianxielou.workers.dev
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=ac6302bb615db969a96dc5fcfe4e98e7
-https://mc.jiedianxielou.workers.dev/
-https://xs.mashiroshina.top/api/v1/client/subscribe?token=d20efbd90503b69b5b320b9ddbcc6e93
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://mydy.xlm.plus/api/v1/client/subscribe?token=a76761e54db4b5f1439640e34dd348ab
