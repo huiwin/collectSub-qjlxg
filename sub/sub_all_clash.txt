@@ -1,11 +1,6 @@
-https://prob.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=43d0b091b796df96d53bbf52a73e1089
-https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=af859bb658c5c454bc24b284d5e36e79
-https://api.xinyo.vip/api/v1/client/subscribe?token=d9063e2f55e2c52c1ecb0279c25de3bd
-https://asa.lol/api/v1/client/subscribe?token=1a39beba774ca7f7cc79cc18c0e1683f#subscribe?to
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0xx8yFuq4uZwo0d6f0fKq4tDshF8KYLaXbReQeHesu36j9DY4YtkU96pii94VYsuogt1E9PK0LTKdv4mhRkTG80vrylw
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
-https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
+http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
+https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
+https://asa035.888545.xyz/api/v1/client/subscribe?token=f8e2c82002eecea548f6a05b43e71cd7
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
 https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
-https://linke.phantasy.life/api/v1/client/subscribe?token=6545d423d397584356e55bf07d3b927a&amp;flag=meta
-https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
-https://v2.bgp.dedyn.io/ssb
+https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
