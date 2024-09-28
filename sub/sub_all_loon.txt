@@ -1,10 +1,7 @@
 http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
-https://asa.lol/api/v1/client/subscribe?token=1a39beba774ca7f7cc79cc18c0e1683f#subscribe?to
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=6b2ec377a3eab7dcb819f52dca7891d4
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=b37029894a22d0f5dd69e5b38a1c30b2
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org/trojan-6qo.pages.dev/95b?clash
+https://asa035.888545.xyz/api/v1/client/subscribe?token=f8e2c82002eecea548f6a05b43e71cd7
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
