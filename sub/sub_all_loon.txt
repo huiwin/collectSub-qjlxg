@@ -1,6 +1,4 @@
 https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=6b2ec377a3eab7dcb819f52dca7891d4
-https://v2.bgp.dedyn.io/ssb
-https://haitunfree.luodaifan.top/haitunfree
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://subs.zeabur.app/clash
+https://flybit.pages.dev/api/v1/client/subscribe?token=01f150451bd4907be83e4e25cdcc7b1a
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
