@@ -1,4 +1,6 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://subs.zeabur.app/clash
-https://flybit.pages.dev/api/v1/client/subscribe?token=01f150451bd4907be83e4e25cdcc7b1a
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=6b2ec377a3eab7dcb819f52dca7891d4
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://haitunfree.luodaifan.top/haitunfree
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://study.jaycloud11111.top/study?token=cb345153dbcbcb91c6b344140a33e22f
