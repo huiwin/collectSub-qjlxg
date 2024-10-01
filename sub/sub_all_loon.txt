@@ -1,6 +1,5 @@
-https://12123.org/api/v1/client/subscribe?token=758b131f7985f3fd39552d9893e579cc
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://api.xinyo.vip/api/v1/client/subscribe?token=825684aa7107efeabe525c12bd10bd02
-https://dy.smjc.top/api/v1/client/subscribe?token=629580d2c5cb6856d3ce10a7e3371ce7&amp;flag=clash
-https://csgo1.fask511.cfd/api/v1/client/subscribe?token=1a14738c9fb45740a22099c000bf2275
-https://study.jaycloud11111.top/study?token=22430dc7be597902fddd6e71d78a283a
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://subs.zeabur.app/clash
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
