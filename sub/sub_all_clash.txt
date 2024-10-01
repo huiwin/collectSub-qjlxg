@@ -1,13 +1,3 @@
-http://ant77.top/api/v1/client/subscribe?token=d580223a12d39508006e655dbc34b0fa
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
-https://dy.smjc.top/api/v1/client/subscribe?token=629580d2c5cb6856d3ce10a7e3371ce7&amp;flag=clash
-https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
-https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
-https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
-https://proc.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=bd059c4675989a3d648768746743067d
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=d14d8550cc425bdf8e44e2a6c9951759
-https://www.ginfem.com/link/J9AHBgJkY0YkRQwM?clash=1
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
+https://rxxqa.no-mad-world.club/link/j7an2TTYPEdL9qGO?clash=3&amp;extend=1
+https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
