@@ -1,5 +1,2 @@
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://mc.jiedianxielou.workers.dev
-https://12123.org/api/v1/client/subscribe?token=64c27e6ab2ac2f4b4629dcbd39c93556
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://www.vtwoc4.top/api/v1/client/subscribe?token=30bc44654d29048b1493270bc42d65ee
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
