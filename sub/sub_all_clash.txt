@@ -1,8 +1,12 @@
-https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://bujidao.cc/sub?key=Upng9QgD43XTEXQG6rkd6rCqp0bMX0fv
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://bajie.info/api/v1/client/subscribe?token=1d51c1d2d9039efb3ef7ddac6d2c52e3
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
 https://gbtgurl.me/api/v1/client/subscribe?token=546e4735dbf123f782dad5c4729369da
 https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
-https://ng.69hub.cc/api/v1/client/subscribe?token=4b480144caa0768ab8bd1b5f7b77c4a9
+https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
 https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
-https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
