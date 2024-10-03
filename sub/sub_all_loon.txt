@@ -1,3 +1,5 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/
 https://xsus.wiki/api/v1/client/subscribe?token=b962a80d0432c2afc094cee132fdb319&amp;flag=clash
-https://study.jaycloud11111.top/study?token=cb345153dbcbcb91c6b344140a33e22f
+https://study.jaycloud11111.top/study?token=22430dc7be597902fddd6e71d78a283a
