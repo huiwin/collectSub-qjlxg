@@ -1,6 +1,4 @@
-https://subs.zeabur.app/clash
 https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
-https://study.jaycloud11111.top/study?token=22430dc7be597902fddd6e71d78a283a
-https://linke.phantasy.life/api/v1/client/subscribe?token=6545d423d397584356e55bf07d3b927a&amp;flag=meta
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://v2.bgp.dedyn.io/ssb
 https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
