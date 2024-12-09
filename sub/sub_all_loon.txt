@@ -1,7 +1,9 @@
 https://api.xiaofeigun.online/api/v1/client/subscribe?token=e5ce00443e9a89991beddad81b65df27
-http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev/
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://sbsqwzfgh.santoku.cn/api/v1/client/subscribe?token=849173a65c2056ba456b491af884fd51
+https://subscribe.seyyedmt.blog/seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt-seyyedmt/dGVzdCwxNzMyNjI2NjE0-X62c3Vhod
+https://v2.bgp.dedyn.io/ssb
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
