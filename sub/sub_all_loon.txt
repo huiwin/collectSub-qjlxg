@@ -1,8 +1,7 @@
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=26b128a9cdb484eea6d39be0d81edb16&amp;flag=meta
-https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
-http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://d.waka.plus/api/v1/client/subscribe?token=90e27f3af556d45ab3eff9b4387fa28a
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://www.chaojijichang.com/api/v1/client/subscribe?token=03ca9706f07994bf9e3aef724ee4ff62
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://api.xiaofeigun.online/api/v1/client/subscribe?token=e5ce00443e9a89991beddad81b65df27
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://mc.jiedianxielou.workers.dev
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=d79b9ba05ab0c90ca329b99560cefbda
+https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
+https://study.jaycloud11111.top/study?token=22430dc7be597902fddd6e71d78a283a
