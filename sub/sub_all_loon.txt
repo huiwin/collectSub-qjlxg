@@ -1,6 +1,5 @@
-https://subone.xyjc.xyz/api/xyjcxyz?token=9145b22ac60b948983660bd24286cb5a
 https://api.xiaofeigun.online/api/v1/client/subscribe?token=e5ce00443e9a89991beddad81b65df27
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://subone.xyjc.xyz/api/xyjcxyz?token=6a6d0210d1860602ef05ec49bc4ce5db
-https://linke.phantasy.life/api/v1/client/subscribe?token=6545d423d397584356e55bf07d3b927a&amp;flag=meta
-https://vt.louwangzhiyu.xyz/api/v1/client/subscribe?token=15af0f3751d9f46e6d26b79972adf3f4
+https://mc.jiedianxielou.workers.dev/
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=26b128a9cdb484eea6d39be0d81edb16&amp;flag=meta
+https://study.jaycloud11111.top/study?token=cb345153dbcbcb91c6b344140a33e22f
