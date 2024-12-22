@@ -1,6 +1,5 @@
-https://mc.jiedianxielou.workers.dev
-https://subone.xyjc.xyz/api/xyjcxyz?token=9145b22ac60b948983660bd24286cb5a
 https://api.xiaofeigun.online/api/v1/client/subscribe?token=e5ce00443e9a89991beddad81b65df27
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://subone.xyjc.xyz/api/xyjcxyz?token=9145b22ac60b948983660bd24286cb5a
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+http://jjz.31465.cfd/api/v1/client/subscribe?token=4c55b1a88f0dd170cf89573cf9ba65be
+https://ch.cukug.website/api/v1/client/subscribe?token=4716ebbfa9922ce407277a3029d12ce3#@v2ryNG01
