@@ -18,7 +18,7 @@ play_list = []
 airport_list = []
 
 re_str = "https?://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|]"
-thread_max_num = threading.Semaphore(32)  # 32线程
+thread_max_num = threading.Semaphore(132)  # 132线程
 
 check_node_url_str = "https://{}/sub?target={}&url={}&insert=false&config=config%2FACL4SSR.ini"
 
